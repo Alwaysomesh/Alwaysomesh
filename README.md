@@ -11,4 +11,4 @@ Reactive Behavior and Swift action was one of the key skills which I learned qui
 
 ### Projects
 - Project 1: AI chatbot is made which answer the water pollution related question.
-- Project 2: Weather API used webpage to know the weather report.
+- Project 2: Bunch of solved questions of DSA.

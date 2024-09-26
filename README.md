@@ -1,9 +1,10 @@
 # Hi there 👋
 
-I'm [Somesh Kumar Singh], a [student] specializing in [Computer Science and Engineering]. I enjoy [].
+I'm Somesh Kumar Singh, currently in my third year of B. Tech (CS - AIML)  at GLBITM. My passion is to learn different coding languages. For now, I am a beginner and am putting my efforts to sharpen my skills.
+Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwaysomesh/)
 !Twitter
 
 !Your GitHub stats

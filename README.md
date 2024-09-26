@@ -4,7 +4,7 @@ I'm Somesh Kumar Singh, currently in my third year of B. Tech (CS - AIML)  at GL
 Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.
 
 ### Connect with me:
-[![LinkedIn](![image](https://github.com/user-attachments/assets/8b72b6ee-6957-4180-9661-4888a9089fbe)](https://www.linkedin.com/in/alwaysomesh/)
+[![image](https://github.com/user-attachments/assets/8b72b6ee-6957-4180-9661-4888a9089fbe)](https://www.linkedin.com/in/alwaysomesh/)
 !Twitter
 
 !Your GitHub stats

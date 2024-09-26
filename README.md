@@ -6,8 +6,7 @@ Reactive Behavior and Swift action was one of the key skills which I learned qui
 ### Connect with me:
 [![image](https://github.com/user-attachments/assets/8b72b6ee-6957-4180-9661-4888a9089fbe)](https://www.linkedin.com/in/alwaysomesh/)
 [![image](https://github.com/user-attachments/assets/88a04a90-67e8-467e-ab10-ef91eb2e4531)](https://leetcode.com/u/alwaysomesh/)
-[![image](https://github.com/user-attachments/assets/ef0d8040-1618-4d5a-bb05-4c3bbb708e6f)](https://twitter.com/alwaysomesh)
-[![image](https://github.com/user-attachments/assets/ef0d8040-1618-4d5a-bb05-4c3bbb708e6f)](https://twitter.com/alwaysomesh)
+[![image](https://github.com/user-attachments/assets/a7c38021-056e-4497-b86d-4bd97f9088f8)](https://twitter.com/alwaysomesh)
 
 
 ### Projects

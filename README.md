@@ -1,14 +1,25 @@
-# Hi there 👋
+<h1 align="center">I'm Somesh Kumar Singh</h1>
+<h3 align="center">My passion is to learn different coding languages. For now, I am a beginner and am putting my efforts to sharpen my skills. Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.</h3>
 
-I'm Somesh Kumar Singh, currently in my third year of B. Tech (CS - AIML)  at GLBITM. My passion is to learn different coding languages. For now, I am a beginner and am putting my efforts to sharpen my skills.
-Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.
+- I’m currently completing **B. Tech**
 
-### Connect with me:
-[![image](https://github.com/user-attachments/assets/8b72b6ee-6957-4180-9661-4888a9089fbe)](https://www.linkedin.com/in/alwaysomesh/)
-[![image](https://github.com/user-attachments/assets/88a04a90-67e8-467e-ab10-ef91eb2e4531)](https://leetcode.com/u/alwaysomesh/)
-[![image](https://github.com/user-attachments/assets/a7c38021-056e-4497-b86d-4bd97f9088f8)](https://twitter.com/alwaysomesh)
+- All of my projects are available here.
 
+- Ask me about **Java, C, Python, HTML, CSS, JavaScript**
 
-### Projects
-- Project 1: AI chatbot is made which answer the water pollution related question.
-- Project 2: Bunch of solved questions of DSA.
+- How to reach me **singhsomesh.edu@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alwaysomesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/alwaysomesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/singhsomesh_edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/alwaysomesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/alwaysomesh" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a7c38021-056e-4497-b86d-4bd97f9088f8" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwaysomesh&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alwaysomesh&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysomesh&" /></p>

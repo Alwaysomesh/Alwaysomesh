@@ -15,7 +15,7 @@
 <a href="https://instagram.com/alwaysomesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/singhsomesh_edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/alwaysomesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/alwaysomesh" target="blank"><img align="center" src="[https://github.com/user-attachments/assets/a7c38021-056e-4497-b86d-4bd97f9088f8](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" height="30" width="40" /></a>
+<a href="https://twitter.com/alwaysomesh" target="blank"><img align="center" src="[https://github.com/user-attachments/assets/a7c38021-056e-4497-b86d-4bd97f9088f8](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg)" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwaysomesh&show_icons=true&locale=en&layout=compact" /></p>

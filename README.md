@@ -1,7 +1,7 @@
 <h1 align="center">I'm Somesh Kumar Singh</h1>
 <h4 align="center">My passion is to learn different coding languages. For now, I am a beginner and am putting my efforts to sharpen my skills. Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.</h4>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=alwaysomesh&color=green)
+![GitHub Views](https://komarev.com/ghpvc/?username=alwaysomesh&color=red)
 
 ## About Me:
 
@@ -24,8 +24,8 @@
 </p>
 
 ## GitHub Stats:
-| ![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=alwaysomesh&show_icons=true&theme=white) | ![Somesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysomesh&theme=white)                                                                                                           |
+| ![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=alwaysomesh&show_icons=true&theme=onedark) | ![Somesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysomesh&theme=onedark)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysomesh&theme=white&layout=compact) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysomesh&theme=onedark&layout=compact) |
 
-![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alwaysomesh&theme=white)
+![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alwaysomesh&theme=chartreuse-onedark)

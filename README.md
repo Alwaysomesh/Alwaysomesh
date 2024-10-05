@@ -24,8 +24,8 @@
 </p>
 
 ## GitHub Stats:
-| ![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=alwaysomesh&show_icons=true&theme=radical) | ![Somesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysomesh&theme=highcontrast&hide_border=false)                                                                                                           |
+| ![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=alwaysomesh&show_icons=true&theme=white) | ![Somesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysomesh&theme=white)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysomesh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysomesh&theme=white&layout=compact) |
 
-[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alwaysomesh&theme=chartreuse-dark)](https://github.com/alwaysomesh/github-readme-activity-graph)
+![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alwaysomesh&theme=white)

@@ -1,7 +1,6 @@
 <h1 align="center">I'm Somesh Kumar Singh</h1>
 <h4 align="center">My passion is to learn different coding languages. For now, I am a beginner and am putting my efforts to sharpen my skills. Reactive Behavior and Swift action was one of the key skills which I learned quite early because I was a chess player in my teenage. Sports enables one to learn key skills which I still apply in my studies and work.</h4>
 
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=alwaysomesh&color=red)
 
 ## About Me:
